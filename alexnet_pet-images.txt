@@ -1,0 +1,26 @@
+----------------
+Using the alexnet CNN Model Architecture
+Number of images: 40
+Number of dog images: 30
+Number of not-a-dog images: 10
+
+Number of correct classified dogs: 30
+Number of correct classified not-a-dog: 10
+Number of correct classified breeds: 24
+
+75.0 % correct matches
+100.0 % correct dogs
+100.0 % correct not-a-dog
+80.0 % correct breeds
+
+Misclassified dogs:
+
+Misclassified dog breeds
+image: Beagle_01170.jpg, classifier label: walker hound, walker foxhound
+image: Boston_terrier_02285.jpg, classifier label: basenji
+image: Beagle_01141.jpg, classifier label: english foxhound
+image: Golden_retriever_05182.jpg, classifier label: tibetan mastiff
+image: Great_pyrenees_05367.jpg, classifier label: kuvasz
+image: Golden_retriever_05257.jpg, classifier label: afghan hound, afghan
+
+** Total Elapsed Runtime: 0:0:1

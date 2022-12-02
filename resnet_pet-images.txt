@@ -1,0 +1,24 @@
+----------------
+Using the resnet CNN Model Architecture
+Number of images: 40
+Number of dog images: 30
+Number of not-a-dog images: 10
+
+Number of correct classified dogs: 30
+Number of correct classified not-a-dog: 9
+Number of correct classified breeds: 27
+
+82.5 % correct matches
+100.0 % correct dogs
+90.0 % correct not-a-dog
+90.0 % correct breeds
+
+Misclassified dogs:
+image: cat_01.jpg, classifier label: norwegian elkhound, elkhound
+
+Misclassified dog breeds
+image: Beagle_01170.jpg, classifier label: walker hound, walker foxhound
+image: Golden_retriever_05182.jpg, classifier label: leonberg
+image: Great_pyrenees_05367.jpg, classifier label: kuvasz
+
+** Total Elapsed Runtime: 0:0:1
